@@ -8,8 +8,8 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brands" : [],
-      "topics" : []
+      "brand" : [],
+      "topic" : []
     },
     {
       "title" : "Tommy Hilfiger celebrates a more inclusive fashion landscape at second edition of Tommy Hilfiger Fashion Frontier Challenge",
@@ -19,10 +19,10 @@
       "link" : "#",
       "year" : "2020",
       "type" : "News",
-      "brands" : [
+      "brand" : [
         "Tommy Hilfiger"
       ],
-      "topics" : [
+      "topic" : [
         "Inclusivity"
       ]
     },
@@ -34,10 +34,10 @@
       "link" : "#",
       "year" : "2010",
       "type" : "Awards",
-      "brands" : [
+      "brand" : [
         "Tommy Hilfiger"
       ],
-      "topics" : []
+      "topic" : []
     },
     {
       "title" : "PVH Corp. provides updates on business impacts of Coronavirus and 2019 fourth quarter and full year outlook",
@@ -47,8 +47,8 @@
       "link" : "#",
       "year" : "2020",
       "type" : "News",
-      "brands" : [],
-      "topics" : []
+      "brand" : [],
+      "topic" : []
     },
     {
       "title" : "Calvin Klein, Inc. and Calvin Klein Fragrances announce CK ONE Underwear and Jeans and CK EVERYONE Fragrance",
@@ -58,10 +58,10 @@
       "link" : "#",
       "year" : "2020",
       "type" : "News",
-      "brands" : [
+      "brand" : [
         "Calvin Klein"
       ],
-      "topics" : []
+      "topic" : []
     },
     {
       "title" : "PVH Corp. updates 2019 fourth quarter and full year earnings outlook in connection with announcement of the sale of...",
@@ -71,8 +71,8 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brands" : [],
-      "topics" : []
+      "brand" : [],
+      "topic" : []
     },
     {
       "title" : "PVH Corp. to sell Speedo North America business to Pentland Group",
@@ -82,10 +82,10 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brands" : [
+      "brand" : [
         "Speedo"
       ],
-      "topics" : []
+      "topic" : []
     },
     {
       "title" : "PVH Corp. ranked no. 16 on Newsweek magazine’s America’s most responsible companies list",
@@ -95,9 +95,9 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brands" : [
+      "brand" : [
       ],
-      "topics" : [
+      "topic" : [
         "Responsibility"
       ]
     },
@@ -109,9 +109,9 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brands" : [
+      "brand" : [
       ],
-      "topics" : [
+      "topic" : [
       ]
     },
     {
@@ -122,9 +122,9 @@
       "link" : "#",
       "year" : "2020",
       "type" : "News",
-      "brands" : [
+      "brand" : [
       ],
-      "topics" : [
+      "topic" : [
         "Responsibility"
       ]
     },
@@ -136,9 +136,9 @@
       "link" : "#",
       "year" : "2020",
       "type" : "News",
-      "brands" : [
+      "brand" : [
       ],
-      "topics" : [
+      "topic" : [
         "Responsibility",
         "Education"
       ]
