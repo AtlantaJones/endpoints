@@ -88,7 +88,7 @@
       "topics" : []
     },
     {
-      "title" : "PVH Corp. ranked no. 16 \u0003on Newsweek magazine’s America’s most responsible companies list",
+      "title" : "PVH Corp. ranked no. 16 on Newsweek magazine’s America’s most responsible companies list",
       "published" : "Jan 9, 2020",
       "image" : "",
       "alt" : "",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "title" : "PVH Corp. names Tom Chu regional president, \u0003PVH Asia Pacific",
+      "title" : "PVH Corp. names Tom Chu regional president, PVH Asia Pacific",
       "published" : "Jan 9, 2020",
       "image" : "",
       "alt" : "",
@@ -139,7 +139,8 @@
       "brands" : [
       ],
       "topics" : [
-        "Responsibility"
+        "Responsibility",
+        "Education"
       ]
     }
   ]
