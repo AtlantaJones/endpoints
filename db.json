@@ -1,37 +1,38 @@
 {
   "filter" : {
-    "filterByHeading" : "Filter News By",
-    "typeHeading" : "Content Type",
-    "year" : {
-      "label" : "Year",
-      "options" : [
-        "2020",
-        "2010"
-      ]
-    },
-    "brand" : {
-      "label" : "Brand",
-      "options" : [
-        "Calvin Klein",
-        "Tommy Hilfiger"
-      ]
-    },
-    "topic" : {
-      "label" : "Topic",
-      "options" : [
-        "Inclusivity",
-        "Responsibility",
-        "Education"
-      ]
-    },
-    "type" : {
+    "heading" : "Filter News By",
+    "checkboxes" : {
       "label" : "Content type",
       "options" : [
         "Press Releases",
         "News",
         "Awards"
       ]
-    }
+    },
+    "selects" : [
+      {
+        "label" : "Topic",
+        "options" : [
+          "Inclusivity",
+          "Responsibility",
+          "Education"
+        ]
+      },
+      {
+        "label" : "Brand",
+        "options" : [
+          "Calvin Klein",
+          "Tommy Hilfiger"
+        ]
+      },
+      {
+        "label" : "Year",
+        "options" : [
+          "2020",
+          "2010"
+        ]
+      }
+    ]
   },
   "items" : [
     {
