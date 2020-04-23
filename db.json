@@ -106,9 +106,7 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brand" : [
-        ""
-      ],
+      "brand" : [],
       "topic" : []
     },
     {
@@ -132,9 +130,7 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brand" : [
-        ""
-      ],
+      "brand" : [],
       "topic" : [
         "Responsibility"
       ]
@@ -147,9 +143,7 @@
       "link" : "#",
       "year" : "2020",
       "type" : "Press Releases",
-      "brand" : [
-        ""
-      ],
+      "brand" : [],
       "topic" : [
         ""
       ]
@@ -162,9 +156,7 @@
       "link" : "#",
       "year" : "2020",
       "type" : "News",
-      "brand" : [
-        ""
-      ],
+      "brand" : [],
       "topic" : [
         "Responsibility"
       ]
@@ -177,11 +169,10 @@
       "link" : "#",
       "year" : "2020",
       "type" : "News",
-      "brand" : [
-        ""
-      ],
+      "brand" : [],
       "topic" : [
-        "Responsibility"
+        "Responsibility",
+        "Education"
       ]
     }
   ]
